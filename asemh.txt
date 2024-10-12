@@ -59,4 +59,79 @@ main:
         mov rsp, rbp
         xor rax, rax
 ret
+////////////////////////////
+Format ELF64
+macro writeln color,len
+{
+        mov rdi, 1
+        lea rsi, [color]
+        mov rdx, len
+        mov rax, 1
+        syscall
+}
+macro numtostr num, str
+{
+        mov rax, [num]
+        xor cx, cx
+        mov rbx, 10
+numtostrloop1:
+        xor rdx, rdx
+        add dx, '0'
+        push dx
+        inc cx
+        test rax,rax
+        jnz numtostrloop1
+        lea rdi,[str]
+numtostrloop2:
+        pop dx
+        mov byte[rdi], dl
+        inc rdi
+        dec cx
+        test cx, cx
+        jnz numtostrloop2
+}
+section '.data' writeable
+        colorstr db 27, '[94m', 0
+        rescolor db 27, '[0m]', 0
+        hellostr db 'Hello ', 0
+        inputstr db '     ',10, 0
+        numstr db '        ',0
+        lennum dq 7
+        number dq 105
+section '.text' executable
+        public main
+main:
+        mov rbp, rsp
+        and rsp, -16
 
+        mov rax,21
+        mov rcx,18
+        mov rdx,278
+        sub rcx, rdx;rcx =18 - 278
+        shl rcx, 1; rcx= rcx/2
+        add rax,rcx
+
+        mov [number],rax
+
+        numtostr number,numstr
+        writeln numstr,6
+
+        mov rcx, 0
+
+;startloop:
+;       cmp rcx, 58
+;       jz endloop
+;       push rcx
+;       mov byte[hellostr], cl
+;       writeln hellostr, 1
+;       pop rcx
+;       inc rcx
+;       jmp start loop
+;endloop:
+
+        mov rax, 60
+        syscall
+
+        mov rsp, rbp
+        xor rax, rax
+ret
