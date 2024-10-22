@@ -1,0 +1,26 @@
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.Form1.resources
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+D:\Kami\MyProject\FormTest\FormTest\bin\Debug\FormTest.exe
+D:\Kami\MyProject\FormTest\FormTest\bin\Debug\FormTest.pdb
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.exe
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.pdb
+D:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.exe
+D:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.pdb
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.exe
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.pdb
+c:\Пример с Меню\FormTest\FormTest\bin\Debug\FormTest.exe
+c:\Пример с Меню\FormTest\FormTest\bin\Debug\FormTest.pdb
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\ResolveAssemblyReference.cache
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.Form1.resources
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+c:\Программы_графика\FormTest\obj\Debug\FormTest.exe
+c:\Программы_графика\FormTest\obj\Debug\FormTest.pdb
+c:\Программы_графика\FormTest\bin\Debug\FormTest.exe
+c:\Программы_графика\FormTest\bin\Debug\FormTest.pdb
+c:\Программы_графика\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+c:\Программы_графика\FormTest\obj\Debug\FormTest.Form1.resources
+c:\Программы_графика\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+c:\Программы_графика\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache

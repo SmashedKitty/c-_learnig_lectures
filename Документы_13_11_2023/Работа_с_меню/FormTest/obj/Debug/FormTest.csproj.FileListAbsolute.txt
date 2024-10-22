@@ -1,0 +1,38 @@
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.Form1.resources
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+D:\Kami\MyProject\FormTest\FormTest\bin\Debug\FormTest.exe
+D:\Kami\MyProject\FormTest\FormTest\bin\Debug\FormTest.pdb
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.exe
+D:\Kami\MyProject\FormTest\FormTest\obj\Debug\FormTest.pdb
+D:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.exe
+D:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.pdb
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.exe
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.pdb
+c:\Пример с Меню\FormTest\FormTest\bin\Debug\FormTest.exe
+c:\Пример с Меню\FormTest\FormTest\bin\Debug\FormTest.pdb
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\ResolveAssemblyReference.cache
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.Form1.resources
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+c:\Пример с Меню\FormTest\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+c:\Программы_графика\FormTest\obj\Debug\FormTest.exe
+c:\Программы_графика\FormTest\obj\Debug\FormTest.pdb
+c:\Программы_графика\FormTest\bin\Debug\FormTest.exe
+c:\Программы_графика\FormTest\bin\Debug\FormTest.pdb
+c:\Программы_графика\FormTest\obj\Debug\FormTest.csprojResolveAssemblyReference.cache
+c:\Программы_графика\FormTest\obj\Debug\FormTest.Form1.resources
+c:\Программы_графика\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+c:\Программы_графика\FormTest\obj\Debug\FormTest.csproj.GenerateResource.Cache
+c:\Документы_Куликов\С#\Программы_c_#\FormTest\obj\Debug\FormTest.exe
+c:\Документы_Куликов\С#\Программы_c_#\FormTest\obj\Debug\FormTest.pdb
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\bin\Debug\FormTest.exe.config
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\bin\Debug\FormTest.exe
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\bin\Debug\FormTest.pdb
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.csprojAssemblyReference.cache
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.Form1.resources
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.Properties.Resources.resources
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.csproj.GenerateResource.cache
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.csproj.CoreCompileInputs.cache
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.exe
+C:\Users\kulikov5\Desktop\16_09_2020_С#\FormTest\obj\Debug\FormTest.pdb
