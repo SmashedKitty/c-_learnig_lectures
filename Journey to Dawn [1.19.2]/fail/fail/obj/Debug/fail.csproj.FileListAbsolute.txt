@@ -1,0 +1,26 @@
+C:\Документы_16_09_2024\fail\fail\bin\Debug\fail.exe.config
+C:\Документы_16_09_2024\fail\fail\bin\Debug\fail.exe
+C:\Документы_16_09_2024\fail\fail\bin\Debug\fail.pdb
+C:\Документы_16_09_2024\fail\fail\obj\Debug\fail.exe
+C:\Документы_16_09_2024\fail\fail\obj\Debug\fail.pdb
+C:\Users\a.medkov\Desktop\fail\fail\bin\Debug\fail.exe.config
+C:\Users\a.medkov\Desktop\fail\fail\bin\Debug\fail.exe
+C:\Users\a.medkov\Desktop\fail\fail\bin\Debug\fail.pdb
+C:\Users\a.medkov\Desktop\fail\fail\obj\Debug\fail.csproj.AssemblyReference.cache
+C:\Users\a.medkov\Desktop\fail\fail\obj\Debug\fail.csproj.CoreCompileInputs.cache
+C:\Users\a.medkov\Desktop\fail\fail\obj\Debug\fail.exe
+C:\Users\a.medkov\Desktop\fail\fail\obj\Debug\fail.pdb
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\bin\Debug\fail.exe.config
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\bin\Debug\fail.exe
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\bin\Debug\fail.pdb
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\obj\Debug\fail.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\obj\Debug\fail.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\obj\Debug\fail.exe
+C:\Users\admin\Desktop\c-_learnig_lectures-main\fail\fail\obj\Debug\fail.pdb
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\obj\Debug\fail.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\obj\Debug\fail.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\obj\Debug\fail.exe
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\obj\Debug\fail.pdb
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\bin\Debug\fail.exe.config
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\bin\Debug\fail.exe
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\fail\fail\bin\Debug\fail.pdb

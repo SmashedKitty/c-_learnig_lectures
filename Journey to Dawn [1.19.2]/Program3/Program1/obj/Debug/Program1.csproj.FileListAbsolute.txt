@@ -1,0 +1,91 @@
+D:\Енот\Куликов\Program1\Program1\bin\Debug\Program1.exe.config
+D:\Енот\Куликов\Program1\Program1\bin\Debug\Program1.exe
+D:\Енот\Куликов\Program1\Program1\bin\Debug\Program1.pdb
+D:\Енот\Куликов\Program1\Program1\bin\Debug\ZedGraph.dll
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.Form1.resources
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.csproj.CopyComplete
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.exe
+D:\Енот\Куликов\Program1\Program1\obj\Debug\Program1.pdb
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\bin\Debug\ZedGraph.dll
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.Form1.resources
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.CopyComplete
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\k.zhevakin\Desktop\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.pdb
+D:\Документы_23_10_2024\Program1\Program1\bin\Debug\Program1.exe.config
+D:\Документы_23_10_2024\Program1\Program1\bin\Debug\Program1.exe
+D:\Документы_23_10_2024\Program1\Program1\bin\Debug\Program1.pdb
+D:\Документы_23_10_2024\Program1\Program1\bin\Debug\ZedGraph.dll
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.Form1.resources
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.exe
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.pdb
+D:\Документы_23_10_2024\Program1\Program1\obj\Debug\Program1.csproj.CopyComplete
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.Form1.resources
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.csproj.CopyComplete
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\User\Desktop\инфа\Новая папка\Program1\Program1\obj\Debug\Program1.pdb
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.exe
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.pdb
+C:\Users\User\Desktop\test\Program3\Program1\bin\Debug\Program1.exe.config
+C:\Users\User\Desktop\test\Program3\Program1\bin\Debug\Program1.exe
+C:\Users\User\Desktop\test\Program3\Program1\bin\Debug\Program1.pdb
+C:\Users\User\Desktop\test\Program3\Program1\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.Form1.resources
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.csproj.CopyComplete
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.Form3.resources
+C:\Users\User\Desktop\test\Program3\Program1\obj\Debug\Program1.Form4.resources
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.Form1.resources
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.Form3.resources
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.Form4.resources
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.exe
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.pdb
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\bin\Debug\Program1.exe.config
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\bin\Debug\Program1.exe
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\bin\Debug\Program1.pdb
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\bin\Debug\ZedGraph.dll
+C:\Users\hp\OneDrive\Рабочий стол\Program3\Program1\obj\Debug\Program1.csproj.CopyComplete
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\bin\Debug\Program1.exe.config
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\bin\Debug\Program1.exe
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\bin\Debug\Program1.pdb
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.Form1.resources
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.Form3.resources
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.Form4.resources
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.csproj.CopyComplete
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.exe
+C:\Users\admin\Desktop\Journey to Dawn [1.19.2]\Program3\Program1\obj\Debug\Program1.pdb
